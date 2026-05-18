@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rounakroychoudhury/python_college/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rounakroychoudhury/python_college/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rounakroychoudhury/python_college/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/rounakroychoudhury/python_college/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rounakroychoudhury/python_college/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rounakroychoudhury/python_college/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/rounakroychoudhury/python_college/tree/master/0704-binary-search) |
 ## Matrix
 |  |
