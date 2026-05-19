@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rounakroychoudhury/python_college/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/rounakroychoudhury/python_college/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/rounakroychoudhury/python_college/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rounakroychoudhury/python_college/tree/master/0242-valid-anagram) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rounakroychoudhury/python_college/tree/master/0002-add-two-numbers) |
+| [0142-linked-list-cycle-ii](https://github.com/rounakroychoudhury/python_college/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rounakroychoudhury/python_college/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/rounakroychoudhury/python_college/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
